@@ -11,3 +11,5 @@ Project Website: https://pathpet.github.io/PathPet-Website/
 Trello : https://trello.com/b/PVpgdkz8/pathpet
 
 Project Analysis Report : https://bit.ly/33WkHmi
+
+Weekly Report for Lesson : https://bit.ly/2CTr4ef
